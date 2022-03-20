@@ -1,5 +1,5 @@
 
 
 class XYZ {
-blabla
+
 }
